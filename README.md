@@ -33,3 +33,5 @@
   - **writers_periodicals_without8degree.tif**: heterogeneous network of periodicals-writers with degree of nodes >= 8
   - **writers_societies.tif**: heterogeneous network of societies-writers.
 
+Presentation of the project at the Transylvanian Students' Scientific Conference (ETDK): https://www.youtube.com/watch?v=aQLn_8qISsc
+
