@@ -1,7 +1,7 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
-###### EszterMolnar_slides_HU.pdf  
+#### EszterMolnar_slides_HU.pdf  
 My presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
-###### Data:
+#### Data:
   1. lexikon.json  
 Original database. Built a parser to download the Hungarian literary lexicon in Romania from: https://lexikon.kriterion.ro/
   2. lexikon.xlsx  
@@ -18,12 +18,12 @@ p - periodical, journal, excerpt, newspaper, student paper, pamphlet
 s - literary societies, associations  
 sw - scientific writer  
 w - writer, poet, editor, publicist, translator, and journalist   
-###### Gephi:
+#### Gephi:
   1. nodes.xlsx  
 Nodes in the entire network.  
   3. links.xlsx  
 Connections in the entire network.  
-###### Networks:  
+#### Networks:  
   - Communities: communities in the entire network and in the writers homogeneous network.
   - Ego-networks: egocentric networks of TOP 8 periodicals and TOP 5 societies.
   - full.tif  
