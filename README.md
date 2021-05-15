@@ -1,5 +1,5 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
-#### EszterMolnar_slides_HU.pdf  
+#### EszterMolnar_slides_HU.pdf:  
 My presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
 #### Data:
   1. lexikon.json  
@@ -24,30 +24,18 @@ Nodes in the entire network.
   3. links.xlsx  
 Connections in the entire network.  
 #### Networks:  
-  - Communities: communities in the entire network and in the writers homogeneous network.
-  - Ego-networks: egocentric networks of TOP 8 periodicals and TOP 5 societies.
-  - full.tif  
-Entire network.  
-  - full_without6degree.tif  
-Entire network with degree of nodes >= 6.
-  - periodicals.tif  
-Homogeneous network of periodicals. 
-  - periodicals_label.tif  
-Homogeneous network of periodicals with top actors' labels.
-  - periodicals_top8.tif  
-Connections of TOP8 periodicals by degree in the heterogeneous network of periodicals-writers. (for more details: EszterMolnar_slides_HU.pdf)
-  - scientific_writers.tif  
-Homogeneous network of scientific writers.
-  - societies_top5.tif  
-Connections of TOP5 societies by degree in the heterogeneous network of periodicals-writers. (for more details: EszterMolnar_slides_HU.pdf)
-  - writers.tif  
-Homogeneous network of writers.
-  - writers_label.tif  
-Homogeneous network of writers with top actors' labels.
-  - writers_periodicals.tif  
-Heterogeneous network of periodicals-writers.
-  - writers_periodicals_without8degree.tif  
-Heterogeneous network of periodicals-writers with degree of nodes >= 8.
-  - writers_societies.tif  
-Heterogeneous network of societies-writers.
+  - **Communities**: communities in the entire network and in the writers homogeneous network.
+  - **Ego-networks**: egocentric networks of TOP 8 periodicals and TOP 5 societies.
+  - **full.tif**: entire network
+  - **full_without6degree.tif**: entire network with degree of nodes >= 6
+  - **periodicals.tif**: homogeneous network of periodicals
+  - **periodicals_label.tif**: homogeneous network of periodicals with top actors' labels
+  - **periodicals_top8.tif**: connections of TOP8 periodicals by degree in the heterogeneous network of periodicals-writers (for more details: *EszterMolnar_slides_HU.pdf*)
+  - **scientific_writers.tif**: homogeneous network of scientific writers.
+  - **societies_top5.tif**: connections of TOP5 societies by degree in the heterogeneous network of periodicals-writers (for more details: *EszterMolnar_slides_HU.pdf*)
+  - **writers.tif**: homogeneous network of writers
+  - **writers_label.tif**: homogeneous network of writers with top actors' labels
+  - **writers_periodicals.tif**: heterogeneous network of periodicals-writers
+  - **writers_periodicals_without8degree.tif**: heterogeneous network of periodicals-writers with degree of nodes >= 8
+  - **writers_societies.tif**: heterogeneous network of societies-writers.
 
