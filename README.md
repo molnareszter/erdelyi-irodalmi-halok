@@ -1,5 +1,5 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
-#### EszterMolnar_slides_HU.pdf:  
+##### EszterMolnar_slides_HU.pdf:  
 My presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
 #### Data:
   1. lexikon.json  
