@@ -3,8 +3,6 @@
 #### Data:
 - **lexikon.json**: original database. Built a parser to download the Hungarian literary lexicon in Romania from: https://lexikon.kriterion.ro/
 - **lexikon.xlsx**: cleaned data. Manually categorized all 5262 articles.  
-
-&emsp;&emsp; Categories:  
 &emsp;&emsp;&ensp; a - almanac  
 &emsp;&emsp;&ensp; bp - book publisher  
 &emsp;&emsp;&ensp; bs - book series, novel series, lexicon, encyclopedia  
@@ -18,7 +16,7 @@
 &emsp;&emsp;&ensp; w - writer, poet, editor, publicist, translator, and journalist   
 #### Gephi:
 - **nodes.xlsx**: nodes in the entire network  
-- **links.xlsx**: connections in the entire network.  
+- **links.xlsx**: connections in the entire network 
 #### Networks:  
   - **communities**: communities in the entire network and in the writers homogeneous network
   - **ego-networks**: egocentric networks of TOP 8 periodicals and TOP 5 societies
