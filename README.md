@@ -4,22 +4,20 @@
 - **lexikon.json**: original database. Built a parser to download the Hungarian literary lexicon in Romania from: https://lexikon.kriterion.ro/
 - **lexikon.xlsx**: cleaned data. Manually categorized all 5262 articles.  
 &emsp; Categories:  
-a - almanac  
-bp - book publisher  
-bs - book series, novel series, lexicon, encyclopedia  
-co - codex  
-f - folklore educator,  ethnomusicologist   
-lh - local historian  
-n - not relevant (other form of art or industry)  
-p - periodical, journal, excerpt, newspaper, student paper, pamphlet   
-s - literary societies, associations  
-sw - scientific writer  
-w - writer, poet, editor, publicist, translator, and journalist   
+&emsp; a - almanac  
+&emsp; bp - book publisher  
+&emsp; bs - book series, novel series, lexicon, encyclopedia  
+&emsp; co - codex  
+&emsp; f - folklore educator,  ethnomusicologist   
+&emsp; lh - local historian  
+&emsp; n - not relevant (other form of art or industry)  
+&emsp; p - periodical, journal, excerpt, newspaper, student paper, pamphlet   
+&emsp; s - literary societies, associations  
+&emsp; sw - scientific writer  
+&emsp; w - writer, poet, editor, publicist, translator, and journalist   
 #### Gephi:
-  1. nodes.xlsx  
-Nodes in the entire network.  
-  3. links.xlsx  
-Connections in the entire network.  
+- **nodes.xlsx**: nodes in the entire network  
+- **links.xlsx**: connections in the entire network.  
 #### Networks:  
   - **communities**: communities in the entire network and in the writers homogeneous network
   - **ego-networks**: egocentric networks of TOP 8 periodicals and TOP 5 societies
