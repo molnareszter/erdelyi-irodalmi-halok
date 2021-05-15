@@ -4,18 +4,18 @@
 - **lexikon.json**: original database. Built a parser to download the Hungarian literary lexicon in Romania from: https://lexikon.kriterion.ro/
 - **lexikon.xlsx**: cleaned data. Manually categorized all 5262 articles.  
 
-&emsp; Categories:  
-&emsp; a - almanac  
-&emsp; bp - book publisher  
-&emsp; bs - book series, novel series, lexicon, encyclopedia  
-&emsp; co - codex  
-&emsp; f - folklore educator,  ethnomusicologist   
-&emsp; lh - local historian  
-&emsp; n - not relevant (other form of art or industry)  
-&emsp; p - periodical, journal, excerpt, newspaper, student paper, pamphlet   
-&emsp; s - literary societies, associations  
-&emsp; sw - scientific writer  
-&emsp; w - writer, poet, editor, publicist, translator, and journalist   
+&emsp;&emsp; Categories:  
+&emsp;&emsp;&ensp; a - almanac  
+&emsp;&emsp;&ensp; bp - book publisher  
+&emsp;&emsp;&ensp; bs - book series, novel series, lexicon, encyclopedia  
+&emsp;&emsp;&ensp; co - codex  
+&emsp;&emsp;&ensp; f - folklore educator,  ethnomusicologist   
+&emsp;&emsp;&ensp; lh - local historian  
+&emsp;&emsp;&ensp; n - not relevant (other form of art or industry)  
+&emsp;&emsp;&ensp; p - periodical, journal, excerpt, newspaper, student paper, pamphlet   
+&emsp;&emsp;&ensp; s - literary societies, associations  
+&emsp;&emsp;&ensp; sw - scientific writer  
+&emsp;&emsp;&ensp; w - writer, poet, editor, publicist, translator, and journalist   
 #### Gephi:
 - **nodes.xlsx**: nodes in the entire network  
 - **links.xlsx**: connections in the entire network.  
