@@ -3,6 +3,7 @@
 #### Data:
 - **lexikon.json**: original database. Built a parser to download the Hungarian literary lexicon in Romania from: https://lexikon.kriterion.ro/
 - **lexikon.xlsx**: cleaned data. Manually categorized all 5262 articles.  
+
 &emsp; Categories:  
 &emsp; a - almanac  
 &emsp; bp - book publisher  
