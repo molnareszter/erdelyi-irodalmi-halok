@@ -1,5 +1,5 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
-##### EszterMolnar_slides_HU.pdf:  
+#### EszterMolnar_slides_HU.pdf:  
 My presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
 #### Data:
   1. lexikon.json  
@@ -24,8 +24,8 @@ Nodes in the entire network.
   3. links.xlsx  
 Connections in the entire network.  
 #### Networks:  
-  - **Communities**: communities in the entire network and in the writers homogeneous network.
-  - **Ego-networks**: egocentric networks of TOP 8 periodicals and TOP 5 societies.
+  - **communities**: communities in the entire network and in the writers homogeneous network
+  - **ego-networks**: egocentric networks of TOP 8 periodicals and TOP 5 societies
   - **full.tif**: entire network
   - **full_without6degree.tif**: entire network with degree of nodes >= 6
   - **periodicals.tif**: homogeneous network of periodicals
