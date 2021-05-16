@@ -1,7 +1,7 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
 **EszterMolnar_slides_HU.pdf**: Presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
 #### Data:
-- **lexikon.json**: original database. Built a parser to download the Hungarian literary lexicon in Romania from: https://lexikon.kriterion.ro/
+- **lexikon.json**: original database. Built a parser to download The Encyclopaedia of Hungarian Literature from Romania, edited by the Kriterion Publishing House from: https://lexikon.kriterion.ro/
 - **lexikon.xlsx**: cleaned data. Manually categorized all 5262 articles.  
 &emsp;&emsp;&ensp; a - almanac  
 &emsp;&emsp;&ensp; bp - book publisher  
