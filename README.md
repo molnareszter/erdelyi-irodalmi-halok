@@ -1,4 +1,8 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
+
+Publication: https://www.ksh.hu/statszemle_archive/terstat/2021/2021_05/ts610504.pdf
+Presentation of the project at the Transylvanian Students' Scientific Conference (ETDK): https://www.youtube.com/watch?v=aQLn_8qISsc
+
 **EszterMolnar_slides_HU.pdf**: Presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
 #### Data:
 - **lexikon.json**: original database. Built a parser to download The Encyclopaedia of Hungarian Literature from Romania, edited by the Kriterion Publishing House from: https://lexikon.kriterion.ro/
@@ -32,6 +36,3 @@
   - **writers_periodicals.tif**: heterogeneous network of periodicals-writers
   - **writers_periodicals_without8degree.tif**: heterogeneous network of periodicals-writers with degree of nodes >= 8
   - **writers_societies.tif**: heterogeneous network of societies-writers.
-
-Presentation of the project at the Transylvanian Students' Scientific Conference (ETDK): https://www.youtube.com/watch?v=aQLn_8qISsc
-
