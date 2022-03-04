@@ -1,6 +1,6 @@
 # Network analysis of the Hungarian literary ecosystem in Transylvania (1835-2010)
 
-Publication: https://www.ksh.hu/statszemle_archive/terstat/2021/2021_05/ts610504.pdf  
+Article (HU): https://www.ksh.hu/statszemle_archive/terstat/2021/2021_05/ts610504.pdf  
 Presentation of the project at the Transylvanian Students' Scientific Conference (ETDK): https://www.youtube.com/watch?v=aQLn_8qISsc
 
 **EszterMolnar_slides_HU.pdf**: Presentation about the project in Hungarian (presented at the National Scientific Students' Associations Conference - OTDK).
